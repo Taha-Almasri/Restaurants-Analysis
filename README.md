@@ -29,9 +29,3 @@ The dataset contains information about:
 - Matplotlib
 - Seaborn
 - NumPy
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/[your-username]/restaurants-analysis.git
